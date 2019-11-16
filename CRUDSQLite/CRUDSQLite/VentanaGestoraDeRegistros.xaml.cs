@@ -57,7 +57,7 @@ namespace CRUDSQLite
 
         private void btnActulizar_Click(object sender, RoutedEventArgs e)
         {
-            string txtAct = "update contacos set Nombre='" + txtNombre.Text + "'"; 
+            
 
         }   
     }
